@@ -1,3 +1,5 @@
 Viktoriya DZHERMANSKA
 Programming Fundamentals
 Exercises: Git and GitHub
+
+Make some changes
